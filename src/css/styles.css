@@ -18,3 +18,15 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+li {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: larger;
+  font-weight: 600;
+}
+.country-list{
+  padding-left: 0%;
+  margin: 0%;
+  list-style-type: none;
+}
